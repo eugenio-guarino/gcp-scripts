@@ -1,2 +1,2 @@
-# gcp-resource-labelling
-bash scripts to label resources on gcp
+# gcp-scripts
+useful gcloud linux shell scripts
