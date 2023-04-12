@@ -1,4 +1,4 @@
-projects_list = ""
+projects_list= ""
 
 while IFS="" read -r p || [ -n "$p" ]
 do
